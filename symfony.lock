@@ -17,14 +17,8 @@
     "doctrine/collections": {
         "version": "v1.5.0"
     },
-    "doctrine/common": {
-        "version": "v2.10.0"
-    },
     "doctrine/event-manager": {
         "version": "v1.0.0"
-    },
-    "doctrine/inflector": {
-        "version": "v1.3.0"
     },
     "doctrine/lexer": {
         "version": "v1.0.1"
@@ -110,9 +104,6 @@
             "ref": "f8863cbad2f2e58c4b65fa1eac892ab189971bea"
         }
     },
-    "symfony/debug-pack": {
-        "version": "v1.0.7"
-    },
     "symfony/dependency-injection": {
         "version": "v4.2.3"
     },
@@ -172,9 +163,6 @@
     },
     "symfony/process": {
         "version": "v4.2.3"
-    },
-    "symfony/profiler-pack": {
-        "version": "v1.0.4"
     },
     "symfony/routing": {
         "version": "4.2",
